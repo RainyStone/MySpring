@@ -1,4 +1,4 @@
-package org.example.test.ioc;
+package org.example.test.ioc.service;
 
 public class HelloService {
 

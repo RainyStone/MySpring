@@ -2,6 +2,7 @@ package org.example.test.ioc;
 
 import org.example.beans.factory.config.BeanDefinition;
 import org.example.beans.factory.support.DefaultListableBeanFactory;
+import org.example.test.ioc.service.HelloService;
 import org.junit.Test;
 
 public class BeanDefinitionAndBeanDefinitionRegistryTest {
